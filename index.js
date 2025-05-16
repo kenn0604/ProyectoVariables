@@ -14,3 +14,8 @@ console.log("Tipo boolean");
 let  esActivo;
 esActivo = true;
 console.log("Es activo:", esActivo);
+
+console.log("Tipo array");
+let lista;
+lista = [1,2,3,4];
+console.log("Lista:",lista);
