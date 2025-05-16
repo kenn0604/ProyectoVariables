@@ -33,3 +33,8 @@ console.log(lista[3]);
 
 console.log("Este es un numero no definido de la lista 1");
 console.log(lista[5]);
+
+console.log("Tipo object");
+let persona;
+persona = {nombre:"Ana", edad:25, esReal: true,};
+console.log(persona);
