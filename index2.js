@@ -28,3 +28,26 @@ let personas = [
 ];
 console.log(personas);
 console.log(personas[2]);
+
+console.log("Ejercicio 2");
+let juguetes = [
+    {
+        categoria: "peluches",
+        tipo: "osito",
+        cantidad: 50,
+        size: ["small","large"]
+    },
+    {
+        categoria: "Carritos",
+        tipo: "Deportivo",
+        cantidad: 10,
+        velocidad: ["lento","rapido"]
+    },
+    {
+        categoria: "juegos de mesa",
+        tipo: "rompe cabezas",
+        cantidad: 5,
+        size: ["small","large"]
+    },
+];
+console.log(juguetes);
