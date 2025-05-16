@@ -45,3 +45,7 @@ let lista3;
 lista3 = ["Masculino","Femenino"];
 persona2 = {nombre:"Keny", edad:15, esReal: false, Genero:lista3[0]};
 console.log(persona2);
+
+console.log("Tipo undefined");
+let miVaraible;
+console.log(miVaraible);
