@@ -51,3 +51,25 @@ let juguetes = [
     },
 ];
 console.log(juguetes);
+
+console.log("Ejercicio de los Carros");
+let carros = [
+    {
+        marca: "Honda",
+        tipo: "Deportivo",
+        precio: 35000
+    },
+    {
+        marca: "Toyota",
+        tipo: "Pickup",
+        precio: 60000
+    },
+    {
+        marca: "Suzuki",
+        tipo: "SUV",
+        precio: 120000
+    }
+];
+
+console.log("La suma de los precios es:",((carros[0].precio)+(carros[1].precio)+(carros[2].precio)));
+console.log("Las marcas son:",((carros[0].marca)+" ║ "+(carros[1].marca)+" ║ "+(carros[2].marca)));
