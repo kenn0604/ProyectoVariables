@@ -49,3 +49,7 @@ console.log(persona2);
 console.log("Tipo undefined");
 let miVaraible;
 console.log(miVaraible);
+
+console.log("Tipo null");
+miVaraible = null;
+console.log(miVaraible);
