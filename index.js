@@ -9,3 +9,8 @@ console.log("Tipo string");
 let texto;
 texto = "soy Keny";
 console.log(texto);
+
+console.log("Tipo boolean");
+let  esActivo;
+esActivo = true;
+console.log("Es activo:", esActivo);
