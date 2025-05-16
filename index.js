@@ -38,3 +38,10 @@ console.log("Tipo object");
 let persona;
 persona = {nombre:"Ana", edad:25, esReal: true,};
 console.log(persona);
+
+console.log("Forma de trabajar con un objeto");
+let persona2;
+let lista3;
+lista3 = ["Masculino","Femenino"];
+persona2 = {nombre:"Keny", edad:15, esReal: false, Genero:lista3[0]};
+console.log(persona2);
